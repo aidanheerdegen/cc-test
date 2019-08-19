@@ -1,0 +1,6 @@
+name: cc-test
+channels:
+- coecms
+- conda-forge
+dependencies:
+- cosima-cookbook
