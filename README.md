@@ -2,7 +2,7 @@
 
 Clone this repo to a suitable directory
 
-Load an `conda` environment
+Load a `conda` environment
 
 ```
 module use /g/data3/hh5/public/modules
